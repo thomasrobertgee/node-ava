@@ -2,7 +2,7 @@
   "name": "node-ava",
   "version": "0.1.0",
   "description": "Example using ava testing",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "ava"
   },
