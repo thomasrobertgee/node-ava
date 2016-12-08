@@ -1,0 +1,22 @@
+{
+  "name": "node-ava",
+  "version": "0.1.0",
+  "description": "Example using ava testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasrobertgee/node-ava.git"
+  },
+  "author": "Thomas Gee <thomasrobertgee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasrobertgee/node-ava/issues"
+  },
+  "homepage": "https://github.com/thomasrobertgee/node-ava#readme",
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
